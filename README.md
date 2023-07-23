@@ -9,3 +9,9 @@
 当然如果你看到了我这个且也有兴趣来进行补充，我欣然接受。
 
 （希望有人看见吧...）
+
+# 日志
+- 添加手机号验证[230723]
+  - bool IsPhone(this string)
+  - Match MatchPhone(this string)
+  - string MatchFirstPhone(this string)
